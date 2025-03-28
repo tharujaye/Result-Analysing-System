@@ -1,0 +1,4 @@
+Part 3:
+
+Progress - 120, 0, 0
+Do not progress – module retriever - 40, 20, 60
